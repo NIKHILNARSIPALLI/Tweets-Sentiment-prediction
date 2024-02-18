@@ -3,7 +3,7 @@ This program is  made using a machine learning model to understand the emotion b
 Above program is a Machine Learning program that predicts the sentiment of the data based on the learning done by the model using Sentimet 140 dataset
 
 ## Check the deployed application:
-https://twittersentimentbynikhilnarsipalli.streamlit.app
+https://tweets-sentiment-prediction-by-nikhil-narsipalli.streamlit.app/
 
 ## Importing the Dataset
 The First thing to do is to link the kaggle API to our working environment.
