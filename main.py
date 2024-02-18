@@ -17,7 +17,7 @@ st.set_page_config(layout='centered')
 st.title("Find out your 'Tweets' emotion :hushed:")
 st.markdown('#')
 st.header(":arrow_down:")
-st.markdown('''Enter a Tweet below to understand the emotion behind the tweet by [@NikhilNarsipalli - github](https://github.com/NIKHILNARSIPALLI)''')
+st.markdown('''Enter a Tweet below to understand the emotion behind the tweet by [@NikhilNarsipalli - github](https://github.com/NIKHILNARSIPALLI/Tweets-Sentiment-prediction)''')
 input_text = st.text_area('',placeholder='Enter here',height=400,max_chars=200)
 
 st.markdown('##')
@@ -338,5 +338,5 @@ if st.button('Check Code',key='check_code',use_container_width=True):
                 
                 The basic idea of this program is to let the machine understand and predict the emotion of a tweet.
                 This model is trained using Logistic Regression with a training accuracy of 82.82% and a testing accuracy of 77.52%.
-                This code is credited by [@NikhilNarsipalli - github](https://github.com/NIKHILNARSIPALLI) ''' )
+                This code is credited by [@NikhilNarsipalli - github](https://github.com/NIKHILNARSIPALLI/Tweets-Sentiment-prediction) ''' )
 
